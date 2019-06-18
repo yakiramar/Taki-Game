@@ -1,2 +1,2 @@
 # Taki-Game
-Exercises in advanced c ++ programming course
+Exercise from the advanced cpp programming course
